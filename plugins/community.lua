@@ -7,6 +7,8 @@ return {
   { import = 'astrocommunity.colorscheme.iceberg-vim'},
   { import = 'astrocommunity.colorscheme.kanagawa-nvim'},
   { import = 'astrocommunity.colorscheme.tokyonight-nvim'},
+  { import = 'astrocommunity.colorscheme.mellow-nvim'},
+  { import = 'astrocommunity.colorscheme.rose-pine'},
   { -- further customize the options set by the community
     "catppuccin",
     opts = {
@@ -43,7 +45,7 @@ return {
 
   { import = "astrocommunity.git.git-blame-nvim" },
   { import = "astrocommunity.diagnostics.trouble-nvim" },
-  { import = "astrocommunity.editing-support.true-zen-nvim" },
+  { import = "astrocommunity.editing-support.zen-mode-nvim" },
   { import = "astrocommunity.git.diffview-nvim" },
   { import = "astrocommunity.motion.mini-surround"},
   { import = "astrocommunity.motion.hop-nvim"},
