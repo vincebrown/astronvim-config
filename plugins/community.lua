@@ -9,6 +9,8 @@ return {
   { import = 'astrocommunity.colorscheme.tokyonight-nvim'},
   { import = 'astrocommunity.colorscheme.mellow-nvim'},
   { import = 'astrocommunity.colorscheme.rose-pine'},
+  { import = 'astrocommunity.colorscheme.github-nvim-theme'},
+  { import = 'astrocommunity.colorscheme.everforest'},
   { -- further customize the options set by the community
     "catppuccin",
     opts = {
@@ -49,4 +51,6 @@ return {
   { import = "astrocommunity.git.diffview-nvim" },
   { import = "astrocommunity.motion.mini-surround"},
   { import = "astrocommunity.motion.hop-nvim"},
+  -- { import = "astrocommunity.pack.typescript" },
+  { import = "astrocommunity.color.twilight-nvim" },
 }

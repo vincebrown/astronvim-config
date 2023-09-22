@@ -1,6 +1,6 @@
 return {
   -- Set colorscheme to use
-  colorscheme = "nightfox",
+  colorscheme = "everforest",
     -- set up UI icons
   icons = {
     ActiveLSP = "",

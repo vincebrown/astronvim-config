@@ -25,6 +25,8 @@ return {
       desc = "Pick to close",
     },
     ["<leader>b"] = { name = "Buffers" },
-    ["<leader>zm"] = { "<cmd>ZenMode<cr>", desc = "Enter ZenMode"}
+    ["<leader>zm"] = { "<cmd>ZenMode<cr>", desc = "Enter ZenMode"},
+    ["<leader>lo"] = { "<cmd>TypescriptOrganizeImports<cr>", desc = "Organize Imports"},
+    ["<leader>zt"] = { "<cmd>Twilight<cr>", desc = "Toggle Twilight Focus"}
   },
 }
